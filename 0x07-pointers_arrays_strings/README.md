@@ -1,1 +1,1 @@
-more and more pointers
+more pointers
